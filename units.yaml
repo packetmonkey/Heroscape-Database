@@ -381,39 +381,36 @@
       name:           "Heroscapers: The Book of "
       url:            "http://www.heroscapers.com/community/showthread.php?t=8414"
 -
-  name:               "Ne-Gok_Sa"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  name:               "Ne-Gok-Sa"
+  faction:            "Utgar"
+  set:                "Rise of the Valkyrie"
+  life:               5
+  move:               5
+  range:              1
+  attack:             3
+  defense:            6
+  points:             90
+  species:            "Marro"
+  unit_type:          "Unique Hero"
+  unit_class:         "Warlord"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "12/30"
+  bio:                "It is little wonder that the most vicious warlord from the planet Marro aligned himself with Utgar, the most vicious Valkyrie General. Bloodthirsty, brutal, and single-mindedly obsessed in his quest for power, Ne-Gok-Sa is never unprepared for battle; his head, arms and shoulders are implanted with permanent armor, his right hand technobionically forged into a lethal weapon. But Ne-Gok-Sa's most fearsome power is invisible, insidious, and impossible to resist: it is the power of mind control. With this extraordinary gift that is wasted on wickedness, Ne-Gok-Sa enslaves the minds of followers and foes alike. Though the strange chittering of his native language is foreign to Valhallans, Ne-Gok-Sa gives orders telepathically, in the native tongues of his captors."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Mind Shackle 20"
+      description:    "After moving and before attacking, you may choose any unique figure adjacent to Ne-gok-sa. Roll the 20-sided die. If you roll a 20, take control of the chosen figure and that figure's Army Card. You now control that Army Card and all figures on it. Remove any Order Markers on this card. If Ne-Gok-Sa is destroyed, you retain control of any previously Mind Shackled Army Cards."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=46&set_id=1&set_type=1"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8278"
 -
   name:               "Marro Warriors"
   faction:            
