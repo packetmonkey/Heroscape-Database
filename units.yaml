@@ -3824,38 +3824,38 @@
       url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=114&set_id=15&set_type=1"
 -
   name:               "Silver Surfer"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               6
+  move:               6
+  range:              4
+  attack:             4
+  defense:            7
+  points:             320
+  species:            "Zenn-Lavian"
+  unit_type:          "Unique Hero"
+  unit_class:         "Herald"
+  personality:        "Valiant"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "5/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Stealth Flying"
+      description:    "When counting spaces for Silver Surfer’s movement, ignore elevations. Silver Surfer may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Silver Surfer starts to fly, if he is engaged he will not take any leaving engagement attacks."
     -
-      name:           
-      description:    
+      name:           "Cosmic Force Blast Special Attack"
+      range:          6
+      attack:         6
+      description:    "If an opponent’s Unique Hero receives at least one wound from the Cosmic Force Blast Special Attack, roll the 20-sided die. If you roll a 16 or higher, you may remove one unrevealed Order Marker at random from that Unique Hero's Army Card."
+    -
+      name:           "Hyper Speed 5"
+      description:    "After taking a turn with Silver Surfer, Silver Surfer may move up to an additional 5 spaces. Silver Surfer cannot use Hyper Speed 5 if he attacked with his Cosmic Force Blast Special Attack during that turn."
   resources:
     -
       name:           "Hasbro"
-      url:            
-    -
-      name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=113&set_id=15&set_type=1#altbox"
 -
   name:               "Thanos"
   faction:            
