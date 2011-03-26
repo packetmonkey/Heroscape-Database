@@ -348,38 +348,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8277"
 -
   name:               "Grimnak"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Utgar"
+  set:                "Rise of the Valkyrie"
+  life:               5
+  move:               5
+  range:              1
+  attack:             2
+  defense:            4
+  points:             120
+  species:            "Orc"
+  unit_type:          "Unique Hero"
+  unit_class:         "Champion"
+  personality:        "Ferocious"
+  size:               "Huge"
+  height:             11
+  squad_size:         1
+  spaces_per_figure:  2
+  collector_number:   "30/30"
+  bio:                "Exiled from the primitive, savage world of Grut, Grimnak is an orc warrior of the most menacing kind. He thunders onto the battlefield atop his ferocious T-Rex, raising his spear triumphantly and daring his foes to outrun him or to take cover. Enemies who cannot do so may very likely meet either of two gruesome fates. Those who manage to evade the vicious jabbing of Grimnak's spear may face the T-Rex's deadly chomp. Many a warrior has been swallowed whole-or munched a morsel at a time-by this barbarous beast, while their comrades could only look on in terror and revulsion. Grimnak's fellow orc warriors are wise to travel with him when they can: during battle they are well protected by Grimnak and the T-Rex, and with the added security and confidence comes increased attack power."
   powers:
     -
-      name:           
-      description:    
+      name:           "Chomp"
+      description:    "Before attacking, choose one medium or small figure adjacent to Grimnak. If the chosen figure is a Squad figure, destroy it. If the chosen figure is a Hero figure, roll the 20-sided die. If you roll a 16 or higher, destroy the chosen Hero."
     -
-      name:           
-      description:    
+      name:           "Orc Warrior Enhancement"
+      description:    "All friendly Orc Warriors adjacent to Grimnak roll an additional attack die and an additional defense die"
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=42&set_id=1&set_type=1"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8414"
 -
   name:               "Ne-Gok_Sa"
   faction:            
