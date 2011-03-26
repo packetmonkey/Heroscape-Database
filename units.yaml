@@ -1159,7 +1159,7 @@
 -
   name:               "Blade Grut Orcs"
   faction:            
-  set:                
+  set:                "Malliddon's Prophecy: Wave 1 - Grut Orcs"
   life:               
   move:               
   range:              
@@ -1193,7 +1193,7 @@
 -
   name:               "Arrow Grut Orcs"
   faction:            
-  set:                
+  set:                "Malliddon's Prophecy: Wave 1 - Grut Orcs"
   life:               
   move:               
   range:              
