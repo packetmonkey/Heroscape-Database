@@ -3732,38 +3732,33 @@
       url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=111&set_id=15&set_type=1#altbox"
 -
   name:               "Doctor Doom"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               4
+  move:               6
+  range:              6
+  attack:             5
+  defense:            6
+  points:             245
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Ruler"
+  personality:        "Egomaniacal"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "10/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Mind Exchange 17"
+      description:    "After taking a turn with Doctor Doom, you may choose any Unique Hero figure within 4 clear sight spaces of Doctor Doom. Roll the 20-sided die. If you roll a 17 or higher, take temporary control of that hero and immediately take a turn with the chosen Hero. At the end of that turn, control of the chosen Hero returns to the player who controlled the Hero before the Mind Exchange. All Order Markers that were on the chosen Hero's card will stay on the card."
     -
-      name:           
-      description:    
+      name:           "Flying"
+      description:    "When counting spaces for Doctor Doom’s movement, ignore elevations. Doctor Doom may fly over water without stopping, pass over figure without becoming engaged, and fly over obstacles such as ruins. When Doctor Doom starts to fly, if he is engaged he will take any leaving engagement attacks."
   resources:
     -
       name:           "Hasbro"
-      url:            
-    -
-      name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=118&set_id=15&set_type=1#altbox"
 -
   name:               "Hulk"
   set:                "Marvel"
