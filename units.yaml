@@ -513,35 +513,32 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8406"
 -
   name:               "Izumi Samurai"
-  faction:            
+  faction:            "Einar"
   set:                "Rise of the Valkyrie"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               6
+  range:              1
+  attack:             2
+  defense:            5
+  points:             80
+  species:            "Human"
+  unit_type:          "Unique Squad"
+  unit_class:         "Samurai"
+  personality:        "Diciplined"
+  size:               "Medium"
+  height:             5
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "22,23,24/30"
+  bio:                "Inscrutable, unpredictable and dangerous: there are no better words to describe the Izumi Samurai warriors. This precision-trained squad puts honor and ethics above all virtues; yet they are highly secretive, and will shift their allegiance if the cause inspires them. Any warrior brave enough to attack an Izumi Samurai must plan carefully and make no mistakes. The Izumi are artful masters of the riposte: the lightning-quick, deadly-accurate counterstrike."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Counter Strike"
+      description:    "When rolling defense dice against a normal attack from an adjacent attacking figure, all excess shields count as unblockable hits on the attacking figure. This power does not work against other Samurai."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=52&set_id=1&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Izumi Samurai"
       url:            "http://www.heroscapers.com/community/showthread.php?t=8397"
