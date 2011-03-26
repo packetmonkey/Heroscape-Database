@@ -243,38 +243,41 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8407"
 -
   name:               "Agent Carr"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Vydar"
+  set:                "Rise of the Valkyrie"
+  life:               4
+  move:               5
+  range:              6
+  attack:             2
+  defense:            4
+  points:             100
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Agent"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "8/30"
+  bio:                "On his home planet Earth, Agent Carr was a revered master of Krav Maga, the 'no rules' art of face-to-face street combat. With his superhuman senses, lightning-fast reflexes and advanced stealth techniques, Agent Carr simply cannot be caught off-guard. A cautious man who leaves nothing to chance, Carr is also well-schooled in the art of weaponry. He usually carries a gun and a long sword, both gifts from Vydar, his Valkyrie General. Agent Carr is the strong, silent type who asks few questions, and answers even fewer."
   powers:
     -
-      name:           
-      description:    
+      name:           "Ghost Walk"
+      description:    "Agent Carr can move through all figures."
     -
-      name:           
-      description:    
+      name:           "Sword of Reckoning 4"
+      description:    "If Agent Carr is attacking an adjacent figure, add 4 dice to Agent Carr's attack."
+    -
+      name:           "Disengage"
+      description:    "Agent Carr is never attacked when leaving an engagement."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=44&set_id=1&set_type=1"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8276"
 #Krav Maga Agents
 -
   name:               
