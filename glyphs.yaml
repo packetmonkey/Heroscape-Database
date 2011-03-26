@@ -1,0 +1,106 @@
+---
+-
+  name:         "Glyph of Astrid"
+  set:          "Rise of the Valkyrie"
+  description:  "For each figure you control, roll one extra attack die."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Brandar"
+  set:          "Rise of the Valkyrie"
+  description:  "The rules for these two Glyphs vary, depending on the Game Scenario"
+  duration:     "Permanent"
+-
+  name:         "Glyph of Dagmar"
+  set:          "Rise of the Valkyrie"
+  description:  "When you roll for initiative, add 8 to your die roll."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Gerda"
+  set:          "Rise of the Valkyrie"
+  description:  "For each figure you control, roll one extra defense die."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Ivor"
+  set:          "Rise of the Valkyrie"
+  description:  "For each figure you control with a Range number of 4 or more, add 4 to the Range number"
+  duration:     "Permanent"
+-
+  name:         "Glyph of Valda"
+  set:          "Rise of the Valkyrie"
+  description:  "For each figure you control, add 2 to the Move number. (Do not use this power when moving off of the Glyph)."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Erland"
+  set:          "Rise of the Valkyrie"
+  description:  "When one of your figures stops here, you may \"summon\" any other figure (your or your opponent's) by moving it to a space adjacent to the figure on the Glyph. The summoning figure does not receive a leaving engagement roll if it was engaged. Note: If there is no empty adjacent space, you can't use the Summon power."
+  duration:     "Temporary"
+-
+  name:         "Glyph of Kelda"
+  set:          "Rise of the Valkyrie"
+  description:  "Only figures with one or more Wound Markers may stop on this Glyph. When one of your figures stops here, remove all Wound Markers from its Army Card. This glyph cannot be placed symbol-side up in any scenario you may create."
+  duration:     "Temporary"
+-
+  name:         "Glyph of Mitonsoul"
+  set:          "Rise of the Valkyrie"
+  description:  "For each figure on the battlefield (your and your opponents'), roll the 20-sided die. If you roll 1, the figure is destroyed. If you roll 2 through 20, the figure is safe."
+  duration:     "Temporary"
+-
+  name:         "Glyph of Jalgard"
+  set:          "Malliddon's Prophecy"
+  description:  "For each of your figures roll two extra defense dice."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Lodin"
+  set:          "Malliddon's Prophecy"
+  description:  "Any time you roll the 20-sided die while standing on the Glyph of Lodin, you may add one to your die roll."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Rannveig"
+  set:          "Malliddon's Prophecy"
+  description:  "All figures with the Flying special power lose this power and cannot fly while standing on the Glyph of Rannveig."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Sturla"
+  set:          "Malliddon's Prophecy"
+  description:  "One at a time, roll the 20-sided die for each figure destroyed in this battle (yours, your teammates’ and you opponents’). If you roll 19 or 20, place the figure in any starting zone of your choice. If you roll 1 through 18, the figure remains destroyed."
+  duration:     "Temporary"
+-
+  name:         "Glyph of Brandar"
+  set:          "Swarm of the Marro"
+  description:  "The rule for this Glyph vary, depending on the game scenario."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Crevcor"
+  set:          "Swarm of the Marro"
+  description:  "All common figures in your Army may add one extra attack die when attacking normally."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Proftaka"
+  set:          "Swarm of the Marro"
+  description:  "You figure is trapped. The trapped figure cannot move from this space. The figure can move off the Glyph of Proftaka only if a friendly figure occupies an adjacent space."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Throain"
+  set:          "Swarm of the Marro"
+  description:  "All opponents' figures must be adjacent to your figures to attack your figures with a normal attack."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Ulaniva"
+  set:          "Swarm of the Marro"
+  description:  "All unique figures in your Army may add one extra attack die when attacking normally."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Wannok"
+  set:          "Swarm of the Marro"
+  description:  "At the end of every round, roll the 20-sided die. If you roll a 1, the figure on the Glyph receives one wound. If you roll a 2 or higher, you may choose an opponent who must give one wound to any figure he or she controls on the battlefield."
+  duration:     "Permanent"
+-
+  name:         "Glyph of Nilred"
+  set:          "Swarm of the Marro"
+  description:  "When one of your figures stops here, you may choose any opponent's unique figure. Roll the 20-sided die. If you roll a 1 - 4, nothing happens. If you roll a 5 - 20, place the Gold Negation Marker on the chosen figure's Army Card. All of that figure's special powers are negated for the rest of the game."
+  duration:     "Temporary"
+-
+  name:         "Glyph of Oreld"
+  set:          "Swarm of the Marro"
+  description:  "When one of your figures stops here, roll the 20-sided die. If you roll a 1 - 9, nothing happens. If your roll a 10 - 20, you may remove one random Order Marker from an opponent's Army Card."
+  duration:     "Temporary"
