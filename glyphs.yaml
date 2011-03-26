@@ -104,3 +104,28 @@
   set:          "Swarm of the Marro"
   description:  "When one of your figures stops here, roll the 20-sided die. If you roll a 1 - 9, nothing happens. If your roll a 10 - 20, you may remove one random Order Marker from an opponent's Army Card."
   duration:     "Temporary"
+-
+  name:         "Heroic Rune"
+  set:          "Battle for the Underdark"
+  description:  "This figure adds 1 additional attack die when making a normal attack."
+  duration:     "Permanent"
+  treasure:     "Yes"
+-
+  name:         "Talisman of Defense"
+  set:          "Battle for the Underdark"
+  description:  "This figure adds 1 additional defense die when defending."
+  duration:     "Permanent"
+  treasure:     "Yes"
+-
+  name:         "Brandar's Chest"
+  set:          "Battle for the Underdark"
+  description:  "The rules for this Treasure Glyph vary, depending on the Game Scenario"
+  duration:     "Permanent"
+  treasure:     "Yes"
+-
+  name:         "Potion of Healing"
+  set:          "Battle for the Underdark"
+  description:  "This figure may drink this potion after revealing an order marker on its Army Card. Remove up to 3 wound markers from that figure’s Army Card."
+  duration:     "Temporary"
+  treasure:     "Yes"
+
