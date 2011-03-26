@@ -3669,38 +3669,38 @@
       url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=112&set_id=15&set_type=1#altbox"
 -
   name:               "Venom"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               5
+  move:               6
+  range:              1
+  attack:             6
+  defense:            4
+  points:             150
+  species:            "Symbiote"
+  unit_type:          "Unique Hero"
+  unit_class:         "Vigilante"
+  personality:        "Ferocious"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "8/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Spider-Sense"
+      description:    "If Venom is attacked by an opponent's figure and at least 1 skull is rolled, roll the 20-sided die. If you roll 1-13, roll defense normally. If you roll a 14-20, Venom takes no damage and instead may immediately move using his Swing Line 4 Special Power."
     -
-      name:           
-      description:    
+      name:           "Swing Line 14"
+      description:    "Instead of a normal move, Venom may use his Swing Line. Swing Line has a move of 4. When counting spaces for Venom's Swing Line movement, ignore elevations. Venom may swing over water without stopping, swing over figures without becoming engaged, and swing over obstacles such as ruins. Venom may not Swing Line more than 40 levels up or down in a single Swing Line. If Venom is engaged when he starts to Swing Line, he will not take any leaving engagement attacks."
+    -
+      name:           "Web Special Attack"
+      range:          4
+      attack:         3
+      description:    "Figures roll 1 less defense die when defending against Web Special Attack."
   resources:
     -
       name:           "Hasbro"
-      url:            
-    -
-      name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=116&set_id=15&set_type=1#altbox"
 -
   name:               "Iron Man"
   faction:            
