@@ -3858,38 +3858,33 @@
       url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=113&set_id=15&set_type=1#altbox"
 -
   name:               "Thanos"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               6
+  move:               6
+  range:              6
+  attack:             6
+  defense:            7
+  points:             360
+  species:            "Eternal"
+  unit_type:          "Unique Hero"
+  unit_class:         "Conqueror"
+  personality:        "Nihillst"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "7/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Rejected by Death"
+      description:    "At the start of each of your turns after Thanos has been destroyed, roll the 20-sided die. If you roll a 19 or higher, immediately place Thanos on a space adjacent to any figure you control and remove all Wound Markers on Thanos' card."
     -
-      name:           
-      description:    
+      name:           "Flying"
+      description:    "When counting spaces for Thanos’ movement, ignore elevations. Thanos may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Thanos starts to fly, if he is engaged he will take any leaving engagement attacks."
   resources:
     -
       name:           "Hasbro"
-      url:            
-    -
-      name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=115&set_id=15&set_type=1"
 -
   name:               "Agent Skahen"
   faction:            
