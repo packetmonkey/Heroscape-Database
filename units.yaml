@@ -445,7 +445,7 @@
 -
   name:               "Deathwalker 9000"
   faction:            
-  set:                
+  set:                "Rise of the Valkyrie"
   life:               
   move:               
   range:              
@@ -474,12 +474,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Deathwalker 9000"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8404"
 -
   name:               "Zettian Guards"
   faction:            
-  set:                
+  set:                "Rise of the Valkyrie"
   life:               
   move:               
   range:              
@@ -508,12 +508,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Zettian Guards"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8406"
 -
   name:               "Izumi Samurai"
   faction:            
-  set:                
+  set:                "Rise of the Valkyrie"
   life:               
   move:               
   range:              
@@ -542,12 +542,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Izumi Samurai"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8397"
 -
   name:               "Tor-Kul-Na"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -576,12 +576,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Tor-Kul-Na"
+      url:            "http://heroscapers.com/community/showthread.php?t=11750"
 -
-  name:               "Sgt. Drake"
+  name:               "Sgt. Drake Alexander (SotM)"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -610,12 +610,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Sgt. Drake Alexander (SotM)"
+      url:            "http://heroscapers.com/community/showthread.php?t=11081"
 -
-  name:               "Raelin"
+  name:               "Raelin the Kyrie Warrior (SotM)"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -644,12 +644,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Raelin the Kyrie Warrior (SotM)"
+      url:            "http://heroscapers.com/community/showthread.php?p=375423"
 -
   name:               "Shiori"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -678,12 +678,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Shiori"
+      url:            "http://heroscapers.com/community/showthread.php?t=12188"
 -
   name:               "Major Q10"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -712,12 +712,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Major Q10"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=11403"
 -
   name:               "Sonlen"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -746,12 +746,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Sonlen"
+      url:            "http://heroscapers.com/community/showthread.php?t=11080"
 -
   name:               "Marro Stingers"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -780,12 +780,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Marro Stingers"
+      url:            "http://heroscapers.com/community/showthread.php?t=12113"
 -
   name:               "Marro Drudge"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -814,12 +814,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Marro Druge"
+      url:            "http://heroscapers.com/community/showthread.php?p=375270"
 -
   name:               "Marrden Nagrubs"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -848,12 +848,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Marrden Nagrubs"
+      url:            "http://heroscapers.com/community/showthread.php?t=11518"
 -
   name:               "Marro Hive"
   faction:            
-  set:                
+  set:                "Swarm of the Marro"
   life:               
   move:               
   range:              
@@ -882,12 +882,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Marro Hive"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=11813"
 -
   name:               "Tandros Kreel"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -916,12 +916,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Tandros Kreel"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28051"
 -
   name:               "Erevan Sunshadow"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -950,12 +950,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Erevan Sunshadow"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28053"
 -
   name:               "Ana Karithon"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -984,12 +984,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Ana Karithon"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28052"
 -
   name:               "Darrak Ambershard"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -1018,12 +1018,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Darrak Ambershard"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28119"
 -
   name:               "Pelloth"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -1052,12 +1052,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Pelloth"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28033"
 -
   name:               "Deepwyrm Drow"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -1086,12 +1086,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of the Deepwyrm Drow"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28032"
 -
   name:               "Othkurik the Black Dragon"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -1120,12 +1120,12 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Othkurik the Black Dragon"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28049"
 -
   name:               "Feral Troll"
   faction:            
-  set:                
+  set:                "Battle for the Underdark"
   life:               
   move:               
   range:              
@@ -1154,8 +1154,8 @@
       name:           "Hasbro"
       url:            
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Feral Troll"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=28050"
 -
   name:               "Blade Grut Orcs"
   faction:            
