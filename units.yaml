@@ -482,35 +482,32 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8404"
 -
   name:               "Zettian Guards"
-  faction:            
+  faction:            "Utgar"
   set:                "Rise of the Valkyrie"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               4
+  range:              7
+  attack:             2
+  defense:            7
+  points:             70
+  species:            "Soulborg"
+  unit_type:          "Unique Squad"
+  unit_class:         "Guards"
+  personality:        "Precise"
+  size:               "Medium"
+  height:             5
+  squad_size:         2
+  spaces_per_figure:  1
+  collector_number:   "19,20/30"
+  bio:                "Though these fairly small, robot-like Soulborgs travel slowly and only in pairs, they are not easy targets. Their thick, full-body armor is tough to penetrate, so they often keep advancing despite a barrage of enemy fire. But this defensive edge has its price: the weighty armor slows the Zettians down and affects their aim. To make up for this, they tend to target a single enemy and attack it in quick succession with their laser-powered weapons. An enemy that survives the attack and can find the weakness in their armor has a good chance of defeating a Zettian Guard."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Zettian Targeting"
+      description:    "When attacking, if your second Zettian Guard attacks the same figure as the first Zettian Guard, add one attack die to the second Zettian Guard's attack."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=56&set_id=1&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Zettian Guards"
       url:            "http://www.heroscapers.com/community/showthread.php?t=8406"
