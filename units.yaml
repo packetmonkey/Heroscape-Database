@@ -3776,35 +3776,36 @@
       url:            
 -
   name:               "Hulk"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               8
+  move:               5
+  range:              1
+  attack:             6
+  defense:            6
+  points:             370
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Creature"
+  personality:        "Angry"
+  size:               "Medium"
+  height:             6
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "2/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Rage Smash 5"
+      description:    "When Incredible Hulk attacks using a normal attack, he receives one extra attack die for each Wound Marker he has, up to a maximum of 5 extra attack dice for Rage Smash."
     -
-      name:           
-      description:    
+      name:           "Super Leap"
+      description:    "Instead of his normal move, Incredible Hulk may Super Leap. Super Leap has a move of 10. When counting spaces for Hulk’s Super Leap movement, ignore elevations. Hulk may leap over water without stopping, leap over figures without becoming engaged, and leap over obstacles such as ruins. Hulk may not leap more than 50 levels up or down in a single leap. If Hulk is engaged when he starts to leap, he will take any leaving engagement attacks. Hulk rolls 3 less attack dice on any turn that he chooses to Super Leap."
+    -
+      name:           "Stomp Special Attack"
+      description:    "Any figure adjacent to Incredible Hulk is affected by the Stomp Special Attack. Roll 3 attack dice once for all affected figures. Each figure rolls defense separately. Hulk cannot attack using his Stomp Special Attack on the same turn he uses Super Leap."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=110&set_id=15&set_type=1"
     -
       name:           "Heroscapers: The Book of "
       url:            
