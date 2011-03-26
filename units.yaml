@@ -444,35 +444,39 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8282"
 -
   name:               "Deathwalker 9000"
-  faction:            
+  faction:            "Utgar"
   set:                "Rise of the Valkyrie"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               5
+  range:              7
+  attack:             4
+  defense:            9
+  points:             140
+  species:            "Soulborg"
+  unit_type:          "Unique Hero"
+  unit_class:         "Deathwalker"
+  personality:        "Precise"
+  size:               "Large"
+  height:             7
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "18/30"
+  bio:                "Like his fellow Soulborgs the Zettian Guards, Deathwalker 9000 is slowed down by his cumbersome full-body armor. His lumbering demeanor may at first deceive those who are unfamiliar with Soulborgs; but they would be ill advised to let down their guard. Deathwalker 9000's armor is impenetrable, and one exploding fireball from his energy blaster can wipe out a cluster of warriors in a nanosecond. To defeat Deathwalker 9000 an enemy must find, by either luck or proximity, one of the few vulnerable areas under his armor plates. Knowing this, Deathwalker often travels with Zettian Guards, programming them for longer attack range as a reward for their loyalty and protection."
+  synergies:
+    race:             "Soulborg"
   powers:
     -
-      name:           
-      description:    
+      name:           "Explosion Special Attack"
+      range:          7
+      attack:         3
+      description:    "Choose a figure to attack. Any figures adjacent to the chosen figure are also affected by the Explosion Special Attack. Deathwalker only needs a clear sight shot at the chosen figure. Roll 3 attack dice once for all affected figures. Each figure rolls defense dice separately. Deathwalker can be affected by his own Explosion Special Attack."
     -
-      name:           
-      description:    
+      name:           "Range Enhancement"
+      description:    "Any Soulborg Guards adjacent to Deathwalker add 2 spaces to their range."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=43&set_id=1&set_type=1"
     -
       name:           "Heroscapers: The Book of Deathwalker 9000"
       url:            "http://www.heroscapers.com/community/showthread.php?t=8404"
