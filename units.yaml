@@ -3606,38 +3606,33 @@
       url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=119&set_id=15&set_type=1#altbox"
 -
   name:               "Red Skull"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  set:                "Marvel"
+  life:               5
+  move:               5
+  range:              5
+  attack:             4
+  defense:            3
+  points:             190
+  species:            "Clone"
+  unit_type:          "Unique Hero"
+  unit_class:         "Mastermind"
+  personality:        "Ruthless"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "9/10"
   powers:
     -
-      name:           
-      description:    
+      name:           "Master Manipulator"
+      description:    "After revealing an Order Marker on Red Skull’s card, instead of taking that turn with Red Skull, you may take a turn with any Unique Hero you control within clear sight of Red Skull."
     -
-      name:           
-      description:    
+      name:           "Dust-of-Death"
+      description:    "After moving and before attacking, you may either: • Roll the 20-sided die once for each figure adjacent to Red Skull, or • Roll the 20-sided die once for any one figure up to 3 clear sight spaces away. If you roll a 19 or higher, that figure is destroyed."
   resources:
     -
       name:           "Hasbro"
-      url:            
-    -
-      name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Marvel/CharacterDetail&char_id=117&set_id=15&set_type=1#altbox"
 -
   name:               "Spider-Man"
   faction:            
