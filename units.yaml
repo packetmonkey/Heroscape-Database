@@ -312,38 +312,40 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8405"
 -
   name:               "Mimring"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Utgar"
+  set:                "Rise of the Valkyrie"
+  life:               5
+  move:               6
+  range:              1
+  attack:             4
+  defense:            3
+  points:             150
+  species:            "Dragon"
+  unit_type:          "Unique Hero"
+  unit_class:         "Beast"
+  personality:        "Ferocious"
+  size:               "Huge"
+  height:             9
+  squad_size:         1
+  spaces_per_figure:  2
+  collector_number:   "1/30"
+  bio:                "Who would suspect that a creature of his size could ambush even the most wary of warriors? Yet Mimring is notorious for such attacks. This fire-breathing behemoth can swoop down undetected and, within seconds, incinerate an enemy line up to 8 warriors deep. In this war of horrific battlefield events, Mimring's Fire Line Attack is absolutely the most terrifying of all. Mimring is no slack-jawed, mindless minion; he has a keen intelligence, and can communicate with surprising eloquence when it serves him. But these powers are squandered on a life devoted solely to stalking, burning and brutalizing. In Mimring, there is a chilling lack of morality and remorse. His only allegiance is to Utgar, his only goal to forge an ever-widening swath of destruction."
   powers:
     -
-      name:           
-      description:    
+      name:           "Fire Line Special Attack"
+      range:          "Special"
+      attack:         4
+      description:    "Choose 8 spaces in a straight line from Mimring. All figures on those spaces who are in line of sight are affected by Mimring's Fire Line Special Attack. Roll 4 attack dice once for all affected figures. Affected figures roll defense dice separately."
     -
-      name:           
-      description:    
+      name:           "Flying"
+      description:    "When counting spaces for Mimring's movement, ignore elevations. Mimring may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Mimring starts to fly, if he is engaged he will take any leaving engagement attacks."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=41&set_id=1&set_type=1"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8277"
 -
   name:               "Grimnak"
   faction:            
