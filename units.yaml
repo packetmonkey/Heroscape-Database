@@ -413,38 +413,35 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8278"
 -
   name:               "Marro Warriors"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Utgar"
+  set:                "Rise of the Valkyrie"
+  life:               1
+  move:               6
+  range:              6
+  attack:             2
+  defense:            3
+  points:             50
+  species:            "Marro"
+  unit_type:          "Unique Squad"
+  unit_class:         "Warriors"
+  personality:        "Wild"
+  size:               "Medium"
+  height:             4
+  squad_size:         4
+  spaces_per_figure:  1
+  collector_number:   "13,14,15,16/30"
+  bio:                "Steely skeletal frames distinguish these savage predators. Mind-shackled by Ne-Gok-Sa, Marro Warriors have no thoughts or will of their own. On the battlefield they are unpredictable, wild and intimidating: they advance quickly with single-minded intent, firing furiously and for long distances with their plasma blasters. Perhaps the most powerful weapon in the Marros' arsenal is their eerie ability to clone themselves. Standing quite still for several minutes, they then literally divide in half to become two separate and fully functioning selves. The Marros clone most easily in water, but they seem to be able to do so anywhere."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Water Clone"
+      description:    "Instead of attacking with all of the Marro Warriors, one at a time, roll the 20-sided die for each Marro Warrior in play. If you roll a 15 or higher, place a previously destroyed Marro Warrior on a same-level space adjacent to that Marro Warrior. Any Marro Warrior on a water space needs a 10 or higher to Water Clone. You may only Water Clone after you move."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=54&set_id=1&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8282"
 -
   name:               "Deathwalker 9000"
   faction:            
