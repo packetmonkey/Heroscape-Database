@@ -278,41 +278,38 @@
     -
       name:           "Heroscapers: The Book of "
       url:            "http://www.heroscapers.com/community/showthread.php?t=8276"
-#Krav Maga Agents
+
 -
-  name:               
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  name:               "Krav Maga Agents"
+  faction:            "Vydar"
+  set:                "Rise of the Valkyrie"
+  life:               1
+  move:               6
+  range:              7
+  attack:             3
+  defense:            3
+  points:             100
+  species:            "Human"
+  unit_type:          "Unique Squad"
+  unit_class:         "Agents"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             4
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "9,10,11/30"
+  bio:                "Hand-picked by Agent Carr for intensive Krav Maga and weapons training, these agents worked for several secret agencies on Earth before being pressed into service in Valhalla. They can dodge long-range attacks with almost superhuman agility; and their sharp-shooting skills are legendary throughout Valhalla. With single-minded focus and fierce loyalty, they routinely carry out nearly impossible missions with no questions asked-or answered. Thus, they are perhaps the most dangerous of Vydar's followers."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Stealth Dodge"
+      description:    "When a Krav Maga Agent rolls defense dice against an attacking figure who is not adjacent, one shield will block all damage."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=53&set_id=1&set_type=1"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Krav Maga Agents"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8405"
 #Mimring
 -
   name:               
