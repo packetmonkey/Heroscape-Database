@@ -815,35 +815,35 @@
       url:            "http://heroscapers.com/community/showthread.php?p=375270"
 -
   name:               "Marrden Nagrubs"
-  faction:            
+  faction:            "Utgar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               6
+  range:              1
+  attack:             2
+  defense:            2
+  points:             30
+  species:            "Nagrubs"
+  unit_type:          "Common Squad"
+  unit_class:         "Guards"
+  personality:        "Loyal"
+  size:               "Small"
+  height:             3
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "14,15,16/16"
+  bio:                "The Marrden Nagrubs are not of the race of Marro, but so often appear with them on the field of battle that they are always associated with them in the minds of their enemies. Appearing to be some type of deadly massive hound, they are fierce monsters showing even fiercer loyalty to their Marro Hivelord master. Jungle thatches, swampy marshes, and mountain cliff faces seem to be no barrier to a running Marrden Nagrub as it moves swiftly over the most difficult levels of terrain. Ferocious fighting creatures, they show no sign of leaving a battle once the combat begins. In the thick of the deadliest fighting, the giant Marro often takes up one of the Nagrubs and eats it and the huge tears on the Hivelord’s body heal before its enemy’s horror-filled stares."
   powers:
     -
-      name:           
-      description:    
+      name:           "Hivelord Bonding"
+      description:    "Before taking a turn with Marrden Nagrubs, you may first take a turn with any Hivelord you control. Before moving the chosen Hivelord, you may destroy one adjacent Marrden Nagrub you control. If you destroy a Marrden Nagrub with Hivelord Life Bonding, remove 1 wound marker from the chosen Hivelord's Army Card."
     -
-      name:           
-      description:    
+      name:           "Climb X2"
+      description:    "When moving up or down levels of terrain, Marrden Nagrubs may double their Height."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=138&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Marrden Nagrubs"
       url:            "http://heroscapers.com/community/showthread.php?t=11518"
