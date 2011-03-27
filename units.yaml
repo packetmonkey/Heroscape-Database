@@ -716,35 +716,35 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=11403"
 -
   name:               "Sonlen"
-  faction:            
+  faction:            "Ullar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               6
+  move:               5
+  range:              6
+  attack:             4
+  defense:            3
+  points:             180
+  species:            "Elf"
+  unit_type:          "Unique Hero"
+  unit_class:         "Archmage"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "3/16"
+  bio:                "Sonlen is one of Ullar’s most revered champions. The archmage uses his fighting powers and magical skills, coupled with the fangs, claws, and magic of his Dragon to win battle after battle. The mystical link between Elf and Dragon allows the duo to be an unrivaled fighting unit as the dragon flies down on foes while the Archmage Sonlen attacks with his magical spells and deadly weapons. Famous and greatly praised for his fighting abilities in the wars of Nastralund, Sonlen and his dragon became a natural choice for helping to scout the uncharted swamps. The dragon’s swooping attacks leave many foes wounded on the ground. Few enemies know the creature is also capable of healing magic: his dragon is able to help the wounded, even in the midst of battle."
   powers:
     -
-      name:           
-      description:    
+      name:           "Dragon Healing"
+      description:    "Before moving, you may choose a wounded Hero figure within 4 clear sight spaces of Sonlen. Roll the 20-sided die. If you roll a 15 or higher, remove on wound marker from the chosen Hero's Army Card. Sonlen's Dragon can use its Dragon Healing on Sonlen."
     -
-      name:           
-      description:    
+      name:           "Dragon Swoop"
+      description:    "After moving and before attacking, you may choose any figure within 4 clear sight spaces of Sonlen. Roll the 20-sided die. If you roll a 15 or higher, the chosen figure receives one wound."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=145&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Sonlen"
       url:            "http://heroscapers.com/community/showthread.php?t=11080"
