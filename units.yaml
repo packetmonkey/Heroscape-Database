@@ -952,35 +952,37 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28053"
 -
   name:               "Ana Karithon"
-  faction:            
+  faction:            "Einar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
+  life:               5
+  move:               5
+  range:              4
+  attack:             2
+  defense:            3
+  points:             100
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Cleric"
+  personality:        "Merciful"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
   collector_number:   
   bio:                
   powers:
     -
-      name:           
-      description:    
+      name:           "Turn Undead Special Attack"
+      range:          4
+      attack:         4
+      description:    "Turn Undead Special Attack can be used only to attack Undead figures."
     -
-      name:           
-      description:    
+      name:           "Protection From Evil Aura"
+      description:    "All small or medium figures you control within 3 clear sight spaces of Ana Karithion add 1 to their defense dice when rolling defense against an attack from a figure who follows Utgar. Ana Karithon's Protection from Evil Aura does not affect Ana Karithon."
+    -
+      name:           "Healing Word"
+      description:    "After revealing an Order Marker on a wounded small or medium Hero figure you control that is adjacent to Ana Karithon, and before using any other special powers on any Army Card or Treasure Glyph, you may first roll the 20-sided die. If you roll a 1 - 12 nothing happens. If you roll a 13 or higher, remove up to 2 wound markers from that Hero's Army Card."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Ana Karithon"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28052"
