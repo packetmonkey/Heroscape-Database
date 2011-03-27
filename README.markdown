@@ -19,3 +19,10 @@ I'm just a (slightly obsessed) fan who loves portable data and has some
 ideas on how to use it. Please fork and contrinbute any missing or
 inaccurate information. Hopefully we can be the canonical source of all
 raw heroscape data.
+
+TODO
+----
+* Finish adding advanced unit stats to units.yaml
+* COnfirm all synergies are noted in units.yaml
+* Confirm data on all glyphs
+* Update unit.yaml information with basic stats.
