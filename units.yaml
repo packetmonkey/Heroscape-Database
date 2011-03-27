@@ -1107,35 +1107,30 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28049"
 -
   name:               "Feral Troll"
-  faction:            
+  faction:            "Utgar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               8
+  move:               5
+  range:              1
+  attack:             3
+  defense:            1
+  points:             90
+  species:            "Troll"
+  unit_type:          "Unique Hero"
+  unit_class:         "Hunter"
+  personality:        "Ferocious"
+  size:               "Large"
+  height:             7
+  squad_size:         1
+  spaces_per_figure:  2
   powers:
     -
-      name:           
-      description:    
+      name:           "Blood Frenzy"
+      description:    "When attacking with this Feral Troll, it receives 1 additional attack die for each Wound Marker on the defending figure's Army Card, for a maximum of 3 additional attack dice for Blood Frenzy."
     -
-      name:           
-      description:    
+      name:           "Regenerate"
+      description:    "After taking a turn with this Feral Troll, remove 1 Wound Marker from this Feral Troll's army card."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Feral Troll"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28050"

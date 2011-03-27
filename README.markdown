@@ -23,6 +23,7 @@ raw heroscape data.
 TODO
 ----
 * Finish adding advanced unit stats to units.yaml
+* Add unit planet information
 * Confirm all synergies are noted in units.yaml
 * Confirm all weaknesses
 * Confirm data on all glyphs
