@@ -1022,35 +1022,33 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28119"
 -
   name:               "Pelloth"
-  faction:            
+  faction:            "Utgar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
+  life:               4
+  move:               5
+  range:              5
+  attack:             3
+  defense:            3
+  points:             100
+  species:            "Drow"
+  unit_type:          "Unique Hero"
+  unit_class:         "Arachnomancer"
+  personality:        "Devout"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
   collector_number:   
   bio:                
   powers:
     -
-      name:           
-      description:    
+      name:           "Lolth's Wrath Special Attack"
+      attack:         3
+      description:    "Choose a Drow figure you control that is within 5 clear sight spaces of Pelloth and roll 3 attack dice. One at a time for each skull rolled, you may inflict 1 wound on any small or medium figure that is within 2 clear sight spaces of the chosen Drow figure. You may inflict more than 1 wound on a single figure using Lolth's Wrath Special Attack. Figures affected by Lolth's Wrath Special Attack cannot roll any defense dice. After attacking with Lolth's Wrath Special Attack, destroy the chosen Drow figure."
     -
-      name:           
-      description:    
+      name:           "Lurk In Shadows"
+      description:    "If Pelloth is on a shadow space, opponents' figures must be adjacent to attack him with a normal attack."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Pelloth"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28033"
