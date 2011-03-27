@@ -899,8 +899,6 @@
   height:             5
   squad_size:         1
   spaces_per_figure:  1
-  collector_number:   
-  bio:                
   powers:
     -
       name:           "+2 Broadsword"
@@ -936,8 +934,6 @@
   height:             5
   squad_size:         1
   spaces_per_figure:  1
-  collector_number:   
-  bio:                
   powers:
     -
       name:           "Fire Blast Special Attack"
@@ -968,8 +964,6 @@
   height:             5
   squad_size:         1
   spaces_per_figure:  1
-  collector_number:   
-  bio:                
   powers:
     -
       name:           "Turn Undead Special Attack"
@@ -1004,8 +998,6 @@
   height:             4
   squad_size:         1
   spaces_per_figure:  1
-  collector_number:   
-  bio:                
   powers:
     -
       name:           "Sneak Attack 2"
@@ -1038,8 +1030,6 @@
   height:             5
   squad_size:         1
   spaces_per_figure:  1
-  collector_number:   
-  bio:                
   powers:
     -
       name:           "Lolth's Wrath Special Attack"
@@ -1054,35 +1044,30 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28033"
 -
   name:               "Deepwyrm Drow"
-  faction:            
+  faction:            "Utgar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               6
+  range:              1
+  attack:             3
+  defense:            1
+  points:             70
+  species:            "Drow"
+  unit_type:          "Common Squad"
+  unit_class:         "Warriors"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             5
+  squad_size:         3
+  spaces_per_figure:  1
   powers:
     -
-      name:           
-      description:    
+      name:           "Poison Weapons"
+      description:    "Each time a Deepwyrm Drow attacks a small, medium, or large Hero with a normal attack or a leaving engagement attack and inflicts at least 1 wound, roll the 20-sided die. If you roll a 1-11, nothing happens. If you roll a 12 or higher, add 1 additional wound to the defending figure."
     -
-      name:           
-      description:    
+      name:           "Hide in Darkness"
+      description:    "If a Deepwyrm Drow is attacked with a normal and at least 1 skull is rolled, roll the 20-sided die. If that Deepwyrm Drow is on a dungeon space, add 3 to your die roll. If it is on a shadow space, add 6 to your die roll. If you roll a 1-15, roll defence dice normally. If you roll a 16 or higher, ignore all damage that would be inflicted by the attack."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of the Deepwyrm Drow"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28032"
