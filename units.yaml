@@ -988,35 +988,35 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28052"
 -
   name:               "Darrak Ambershard"
-  faction:            
+  faction:            "Aquilla"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
+  life:               4
+  move:               5
+  range:              1
+  attack:             4
+  defense:            2
+  points:             60
+  species:            "Dwarf"
+  unit_type:          "Unique Hero"
+  unit_class:         "Rogue"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             4
+  squad_size:         1
+  spaces_per_figure:  1
   collector_number:   
   bio:                
   powers:
     -
-      name:           
-      description:    
+      name:           "Sneak Attack 2"
+      description:    "If Darrak Ambershard is attacking an opponent's figure adjacent to at least one other figure you control, add 2 dice to Darrak Ambershard's attack."
     -
-      name:           
-      description:    
+      name:           "Disarm Traps"
+      description:    "When you roll the 20-sided die for a treasure glyph trap with Darrak Ambershard, you may add 4 to your die roll."
+    -
+      name:           "Hide in Darkness"
+      description:    "If Darrak Ambershard is attacked with a normal attack and at least one skull is rolled, roll the 20-sided die. If Darrak Ambershard is on a Dungeon space, add three to your die roll. If he is on a Shadow space, add 6 to your die roll. If you roll a 1-15, roll defence dice normally. If you roll a 16 or higher, ignore all damage that would be inflicted by the attack."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Darrak Ambershard"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28119"
