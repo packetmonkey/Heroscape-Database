@@ -1271,38 +1271,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8120"
 -
   name:               "Venoc Vipers"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Ullar"
+  set:                "Snipers & Vipers"
+  life:               1
+  move:               7
+  range:              1
+  attack:             3
+  defense:            0
+  points:             40
+  species:            "Vipers"
+  unit_type:          "Common Squad"
+  unit_class:         "Scouts"
+  personality:        "Relentless"
+  size:               "Medium"
+  height:             5
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "15,16,17/25"
+  bio:                "Although fearsome to behold, Venoc Vipers are a passive, swamp-dwelling species. They will fight fiercely, however, when called upon to do so-especially with their lifelong enemies, the Marro warriors from their planet of Marr. Vipers and the Marros have a long history of war, so the Venoc Vipers were happy to join General Ullar in the battle against Utgar's army. Venoc Vipers are brave, fast moving (especially in water) and relentless, but they do not possess the intelligence to be cunning or highly tactical."
   powers:
     -
-      name:           
-      description:    
+      name:           "Slither"
+      description:    "Venoc Vipers do not have to stop their movement when entering water spaces."
     -
-      name:           
-      description:    
+      name:           "Frenzy"
+      description:    "After you take a turn with Venoc Vipers; roll the 20-sided die. If you roll a 16 or higher you may take another turn with Venoc Vipers."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=5&set_id=3&set_type=2#altbox"
     -
       name:           "Heroscapers: The Book of "
-      url:            
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8411"
 -
   name:               "Omnicron Snipers"
   faction:            
