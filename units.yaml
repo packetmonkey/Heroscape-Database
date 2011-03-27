@@ -920,35 +920,33 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28051"
 -
   name:               "Erevan Sunshadow"
-  faction:            
+  faction:            "Jandar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
+  life:               5
+  move:               6
+  range:              1
+  attack:             2
+  defense:            2
+  points:             80
+  species:            "Eladrin"
+  unit_type:          "Unique Hero"
+  unit_class:         "Wizard"
+  personality:        "Precise"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
   collector_number:   
   bio:                
   powers:
     -
-      name:           
-      description:    
+      name:           "Fire Blast Special Attack"
+      range:          5
+      description:    "Each time you attack with Erevan Sunshadow's Fire Blast Special Attack, you may choose to roll 2, 3, or 4 attack dice. If a skull is rolled on every die, you may attack again with Erevan Sunshadow' Fire Blast Special Attack. You may continue attacking Erevan Sunshadow's Fire Blast Special Attack until you do not roll a skull on every die."
     -
-      name:           
-      description:    
+      name:           "Fey Step"
+      description:    "Once per game Erevan Sunshadow may use Fey Step. Before moving normally with Erevan Sunshadow, you may place him on any empty space withing 5 spaces of his current location. If Erevan Sunshadow is engaged when he uses Fey Step, he will not take any engagement attacks."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Erevan Sunshadow"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28053"
