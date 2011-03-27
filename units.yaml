@@ -1170,38 +1170,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8590"
 -
   name:               "Arrow Grut Orcs"
-  faction:            
+  faction:            "Utgar"
   set:                "Malliddon's Prophecy: Wave 1 - Grut Orcs"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               6
+  range:              6
+  attack:             1
+  defense:            1
+  points:             40
+  species:            "Orc"
+  unit_type:          "Common Squad"
+  unit_class:         "Archmage"
+  personality:        "Wild"
+  size:               "Medium"
+  height:             4
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "1,2,3/25"
+  bio:                "Arrow Gruts, the archers of the Orc army, have always attended the Orc cavalry. Trained from a young age in the art of archery, Arrow Gruts are fiercely loyal to their cavalry leaders and show little concern for their own safety. While Arrow Gruts are not particularly good fighters or defenders, their sheer numbers and their ferocity are intimidating to the enemy, and are often very effective in protecting and preserving their cavalry commanders."
   powers:
     -
-      name:           
-      description:    
+      name:           "Beast Bonding"
+      description:    "Before taking a turn with Arrow Gruts, you may first take a turn with any Beast you control."
     -
-      name:           
-      description:    
+      name:           "Disengage"
+      description:    "Arrow Gruts are never attacked when leaving an engagement."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=1&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Arrow Gruts"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8592"
 -
   name:               "Roman Legionnaires"
   faction:            
