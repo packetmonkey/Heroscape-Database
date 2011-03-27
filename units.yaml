@@ -883,35 +883,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=11813"
 -
   name:               "Tandros Kreel"
-  faction:            
+  faction:            "Einar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
+  life:               7
+  move:               5
+  range:              5
+  attack:             2
+  defense:            4
+  points:             120
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Fighter"
+  personality:        "Diciplined"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
   collector_number:   
   bio:                
   powers:
     -
-      name:           
-      description:    
+      name:           "+2 Broadsword"
+      description:    "If Tandros Kreel is attacking an adjacent figure, add 2 dice to Tandros Kreel's attack"
     -
-      name:           
-      description:    
+      name:           "Cleave"
+      description:    "When Tandros Kreel attacks an adjacent figure, you may choose one Squad figure that is also adjacent to Tandros Kreel. If the defending figure recieves any wounds from Tandros Kreel's attack, the chosen figure recieves one wound."
+    -
+      name:           "Combat Challenge"
+      description:    "If an opponent's figure that is adjacent to Tandros Kreel attacks with a normal or special attack, it must attack Tandros Kreel."
   resources:
     -
-      name:           "Hasbro"
-      url:            
+      name:           "Wikia - Heroscape"
+      url:            "http://heroscape.wikia.com/wiki/Tandros_Kreel"
     -
       name:           "Heroscapers: The Book of Tandros Kreel"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28051"
