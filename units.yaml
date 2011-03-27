@@ -1305,38 +1305,35 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8411"
 -
   name:               "Omnicron Snipers"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Jandar"
+  set:                "Vipers & Snipers"
+  life:               1
+  move:               5
+  range:              7
+  attack:             1
+  defense:            3
+  points:             100
+  species:            "Soulborg"
+  unit_type:          "Common Squad"
+  unit_class:         "Snipers"
+  personality:        "Precise"
+  size:               "Medium"
+  height:             5
+  squad_size:         3
+  spaces_per_figure:  1
+  collector_number:   "18,19,20/25"
+  bio:                "Deathwalkers and Zettians are not the only Soulborg species summoned to Valhalla from Alpha Prime. Their long-standing Omnicron enemies were recruited by Utgar's enemy, Jandar, and they continue their civil war on the battlefields of Valhalla. The Omnicron warriors are not so heavily armored as the other Soulborgs, nor is their combat programming so flashy; but their deadly accurate sharp-shooting skills have proven to be invaluable assets to their allies."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Deadly Shot"
+      description:    "When attacking with Omnicron Snipers, all skulls rolled count for one additional hit."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=6&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Omicron Snipers"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8118"
 -
   name:               "Taelord the Kyrie Warrior"
   faction:            
