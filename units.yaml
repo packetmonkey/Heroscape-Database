@@ -536,35 +536,32 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8397"
 -
   name:               "Tor-Kul-Na"
-  faction:            
+  faction:            "Utgar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               6
+  move:               6
+  range:              1
+  attack:             6
+  defense:            5
+  points:             220
+  species:            "Marro"
+  unit_type:          "Unique Hero"
+  unit_class:         "Hivelord"
+  personality:        "Terrifying"
+  size:               "Huge"
+  height:             11
+  squad_size:         1
+  spaces_per_figure:  2
+  collector_number:   "6/16"
+  bio:                "In the depths of the uncharted swamp, giant predators hunt and devour each other in a never-ending cycle of life and death. Those deadly giants stampede in terror, catching the scent of the Marro Hivelord, Tor-Kul-Na, silently searching the misty layers of undergrowth. The Hivelord leader rides on the back of a formidable-looking, giant Marro. The Tor-Kul-Na mentally controls the lesser Marro. Moving at monstrous speeds, Tor-Kul-Na routinely and ruthlessly orders its mount to crush enemies. The attacking Marro, normally mindless servants, suddenly become clever and even more deadly as the Hivelord mentally orders them to mass attack enemy troops. In the heat of battle, as the giant Marro rips and slashes its way through the enemy, the awesome power of the giant Marro reveals itself. As the enemy thinks that victory over Tor-Kul-Na is immenent, the giant Marro rises up and begins eating the Marrden Nagrubs that have been gathering. Enemies watch, dazed and filled with new fear, as the wounds on the giant Marro instantly heal."
   powers:
     -
-      name:           
-      description:    
-    -
-      name:           
-      description:    
+      name:           "Trample Stomp"
+      description:    "At any point while moving, Tor-Kul-Na may choose a small or medium figure that is adjacent, on the same level, and on a space where Tor-Kul-Na may end his movement. Roll the 20-sided die. If you roll 1-7, the figure is safe and Tor-Kul-Na's movement ends. If you roll 8-20, the chosen figure receives on wound. If the wound destroys the figure, move Tor-Kul-Na onto the space occupied, and you may continue Tor-Kul-Na's movement. If the chosen figure is not destroyed, Tor-Kul-Na's movement ends. Tor-Kul-Na must be on a space where he can end movement each time he uses this power."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=142&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Tor-Kul-Na"
       url:            "http://heroscapers.com/community/showthread.php?t=11750"
