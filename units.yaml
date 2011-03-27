@@ -640,35 +640,39 @@
       url:            "http://heroscapers.com/community/showthread.php?p=375423"
 -
   name:               "Shiori"
-  faction:            
+  faction:            "Einar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               3
+  move:               6
+  range:              1
+  attack:             3
+  defense:            3
+  points:             60
+  species:            "Human"
+  unit_type:          "Unique Hero"
+  unit_class:         "Ninja"
+  personality:        "Tricky"
+  size:               "Medium"
+  height:             4
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "5/16"
+  bio:                "Shiori is one of the 5 Heroes on a scouting mission into the uncharted swamp. Pulled out of Earth before her training was complete, Shiori’s combat skills are vastly different from the other four Heroes. She is silent and she can move like the wind. While her two Kunai daggers are potent weapons, she’s also able to attack using shuriken missiles with deadly effect. Time and again, she’s thrown shurikens to help other allies in their own deadly struggles. No foe is too powerful, no battlefield prize too difficult to capture, when the mysterious Ninja abilities of Shiori come into play."
   powers:
     -
-      name:           
-      description:    
+      name:           "Concentrated Will"
+      description:    "If Shiori has only one unrevealed order marker on her Army Card, add 1 to her attack and defense."
     -
-      name:           
-      description:    
+      name:           "Phantom Walk"
+      description:    "Shiori can move through all figures and is never attacked when leaving an engagement."
+    -
+      name:           "Shuriken Special Attack"
+      range:          5
+      description:    "If Shiori is attacking a small or medium figure, roll 3 attack dice for Shuriken Special Attack. If Shiori is attacking a figure of a different size or a destructible object, roll 2 attack dice for Shuriken Special Attack."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=143&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Shiori"
       url:            "http://heroscapers.com/community/showthread.php?t=12188"
