@@ -1136,38 +1136,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28050"
 -
   name:               "Blade Grut Orcs"
-  faction:            
+  faction:            "Utgar"
   set:                "Malliddon's Prophecy: Wave 1 - Grut Orcs"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               1
+  move:               6
+  range:              1
+  attack:             2
+  defense:            2
+  points:             40
+  species:            "Orc"
+  unit_type:          "Common Squad"
+  unit_class:         "Warriors"
+  personality:        "Wild"
+  size:               "Medium"
+  height:             4
+  squad_size:         4
+  spaces_per_figure:  1
+  collector_number:   "4,5,6,7/25"
+  bio:                "Ferocious in battle, the Blade Grut warriors are the backbone of the Orc army. As a wild, unintelligent species, they are difficult to control; but they are highly effective when trained to follow their assigned leaders, and they take their orders without question or hesitation. On the battlefield, their leaders always attack first. And the Blade Gruts fiercely follow their example. If separated from their leaders, Blade Gruts become confused, and they often lose a good deal of their savagery."
   powers:
     -
-      name:           
-      description:    
+      name:           "Orc Champion Bonding"
+      description:    "Before taking a turn with Blade Gruts, you may first take a turn with any Orc Champion you control."
     -
-      name:           
-      description:    
+      name:           "Disengage"
+      description:    "Blade Gruts are never attacked when leaving an engagement."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=2&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Blade Grut Orcs"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8590"
 -
   name:               "Arrow Grut Orcs"
   faction:            
