@@ -849,35 +849,35 @@
       url:            "http://heroscapers.com/community/showthread.php?t=11518"
 -
   name:               "Marro Hive"
-  faction:            
+  faction:            "Utgar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               6
+  move:               0
+  range:              1
+  attack:             1
+  defense:            2
+  points:             160
+  species:            "Marro"
+  unit_type:          "Unique Hero"
+  unit_class:         "Hive"
+  personality:        "Terrifying"
+  size:               "Huge"
+  height:             17
+  squad_size:         1
+  spaces_per_figure:  6
+  collector_number:   "7/16"
+  bio:                "Rising up from uncharted swamp, the Marro Hive appears to be a unique feature of the terrain. It isn’t until champions come very close to the living walls of the Hive that they hear it gurgle with life and see its walls erupt with hatching Marro, fully mature and ready to do battle. From a distance, the Hive appears like an odd arrangement of dinosaur bones, green pulsing muscle tissue, and strange bubbling masses of fleshy eggs. But battle erupting around the Hive reveals that this creature is far from a passive nest: It thinks and attacks with a will of its own. The Hive shows its vast intelligence as it speaks telepathically to the lesser Marro, calling them to do its will. This brutal combination of creating and commanding the lesser Marro drives fear straight into the hearts of its enemies."
   powers:
     -
-      name:           
-      description:    
+      name:           "Hive Mind"
+      description:    "After revealing an order marker on this Army Card, you may take a turn with any small or medium common Marro Squad you control before taking a turn with Marro Hive. Any figure that is taking a turn must be within 12 clear sight spaces of Marro Hive, prior to its movement"
     -
-      name:           
-      description:    
+      name:           "Marro Rebirth"
+      description:    "After taking a turn with Marro Hive, you may roll the 20-sided die. if you roll a 13 or higher, you may place any previously destroyed common Marro Squad figure from your army on an empty space adjacent to Marro Hive."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=141&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Marro Hive"
       url:            "http://www.heroscapers.com/community/showthread.php?t=11813"
