@@ -678,35 +678,39 @@
       url:            "http://heroscapers.com/community/showthread.php?t=12188"
 -
   name:               "Major Q10"
-  faction:            
+  faction:            "Vydar"
   set:                "Swarm of the Marro"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               4
+  move:               5
+  range:              8
+  attack:             4
+  defense:            5
+  points:             150
+  species:            "Soulborg"
+  unit_type:          "Unique Hero"
+  unit_class:         "Major"
+  personality:        "Merciful"
+  size:               "Large"
+  height:             6
+  squad_size:         1
+  spaces_per_figure:  2
+  collector_number:   "4/16"
+  bio:                "The latest and most deadly model from a race of death machines, Q 10 is a one-of-a-kind creature that is fast becoming one of Vydar’s most capable death dealers. Although the hero is a creature of metal and power cells, it has developed a questioning soul under Vydar’s leadership, making it a caring warrior able to support and protect allies during a raging battle. Vydar is testing Major Q10 by sending the metal champion into the uncharted swamp. The war leader wants to see what the effects of jungle slime and tangling vines will do to the metalworkings of the Q10 unit. Only time will tell if the terrain proves too much for this walking death machine. Striding onto the battlefield, the huge machine has both machine pistols and rocket attacks to fill surrounding enemies with dread. Able to fire with unusual accuracy and speed, Q10 projects terror and hopelessness to its enemies as it takes to the field of battle"
   powers:
     -
-      name:           
-      description:    
+      name:           "Machine Pistol Special Attack"
+      range:          7
+      attack:         2
+      description:    "Major Q10 may use this special attack 4 times in the same turn. Q10 may target the same figure or a different figure with each attack."
     -
-      name:           
-      description:    
+      name:           "Wrist Rocket Special Attack"
+      range:          4
+      attack:         4
+      description:    "Major Q10 may use this special attack 2 times in the same turn. Q10 may target the same figure or a different figure with each attack."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=144&set_id=2&set_type=1#altbox"
     -
       name:           "Heroscapers: The Book of Major Q10"
       url:            "http://www.heroscapers.com/community/showthread.php?t=11403"
