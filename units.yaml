@@ -1073,35 +1073,35 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=28032"
 -
   name:               "Othkurik the Black Dragon"
-  faction:            
+  faction:            "Utgar"
   set:                "Battle for the Underdark"
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  life:               5
+  move:               6
+  range:              1
+  attack:             4
+  defense:            3
+  points:             140
+  species:            "Dragon"
+  unit_type:          "Unique Hero"
+  unit_class:         "Young"
+  personality:        "Tricky"
+  size:               "Large"
+  height:             6
+  squad_size:         1
+  spaces_per_figure:  2
   powers:
     -
-      name:           
-      description:    
+      name:           "Acid Spray Special Attack"
+      range:          4
+      attack:         4
+      description:    "Choose a figure to attack. You may also choose up to two other figures adjacent to the targeted figure to be affected by Acid Spray Special Attack. Roll attack dice once for all affected figures. Each figure rolls defense dice separately."
     -
-      name:           
-      description:    
+      name:           "Lurking Ambush"
+      description:    "If Othkurik starts his turn unegaged and on at least one shadow or swamp water space, for this turn add 1 to Othkurik's movement and 3 to his Attack value."
+    -
+      name:           "Flying"
+      description:    "When counting spaces for Othkurik's movement, ignore elevations. Othkurik may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Othkurik starts to fly, if he is engaged he will take any leaving engagement attacks."
   resources:
-    -
-      name:           "Hasbro"
-      url:            
     -
       name:           "Heroscapers: The Book of Othkurik the Black Dragon"
       url:            "http://www.heroscapers.com/community/showthread.php?t=28049"
