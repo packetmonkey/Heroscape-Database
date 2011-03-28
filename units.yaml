@@ -1404,38 +1404,41 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8419"
 -
   name:               "Venoc Warlord"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Ullar"
+  set:                "Heroes of Bleakwoode"
+  life:               6
+  move:               7
+  range:              1
+  attack:             4
+  defense:            3
+  points:             120
+  species:            "Viper"
+  unit_type:          "Unique Hero"
+  unit_class:         "Warlord"
+  personality:        "Relentless"
+  size:               "Medium"
+  height:             6
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "24/25"
+  bio:                "Even though the Venocs are largely an unintelligent species, there are some who have developed true intelligence. The Venoc Warlord, a super species of Viper, has developed enough brainpower to speak, work out battle tactics, speech, and lead his scouts effectively on the battlefield. In the company of his scouts, the Venoc Warlord enhances their relentless, frenzied attacks."
   powers:
     -
-      name:           
-      description:    
+      name:           "Scout Leadership"
+      description:    "All scouts you control can move an additional 2 spaces."
     -
-      name:           
-      description:    
+      name:           "Frenzy Enhancement"
+      description:    "Add 1 to your die roll when you roll for the Frenzy power on any Army Card."
+    -
+      name:           "Slither"
+      description:    "Venoc Warlord does not have to stop his movement when entering water spaces."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=10&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Venoc Warlord"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8427"
 -
   name:               "Kelda the Kyrie Warrior"
   faction:            
