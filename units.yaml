@@ -1336,38 +1336,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8118"
 -
   name:               "Taelord the Kyrie Warrior"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Utgar"
+  set:                "Heroes of Bleakwoode"
+  life:               5
+  move:               5
+  range:              1
+  attack:             3
+  defense:            3
+  points:             180
+  species:            "Kyrie"
+  unit_type:          "Unique Hero"
+  unit_class:         "Warrior"
+  personality:        "Relentless"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "23/25"
+  bio:                "When Utgar held a gladiatorial contest to determine who his chief warrior would be, Taelord was the hands-down victor. The battle pitted 83 worthy warriors against each other, and lasted a full two days. In the end, only one warrior was left standing: the mighty Taelord. For his savagery, strength and stamina, Taelord was rewarded with a drink from a Wellspring. On the battlefield, Taelord's natural military superiority extends to all of those who fight nearby."
   powers:
     -
-      name:           
-      description:    
+      name:           "Aura Attack"
+      description:    "All figures you control within 4 clear sight spaces of Taelord get +1 to attack. Taelord's Attack Aura does not effect Taelord."
     -
-      name:           
-      description:    
+      name:           "Flying"
+      description:    "When counting spaces for Taelord's movement, ignore elevations. Taelord may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=9&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Taelord the Kyrie Warrior"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8422"
 -
   name:               "Tornak"
   faction:            
