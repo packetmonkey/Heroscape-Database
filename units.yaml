@@ -1441,38 +1441,38 @@
       url:            "http://www.heroscapers.com/community/showthread.php?t=8427"
 -
   name:               "Kelda the Kyrie Warrior"
-  faction:            
-  set:                
-  life:               
-  move:               
-  range:              
-  attack:             
-  defense:            
-  points:             
-  species:            
-  unit_type:          
-  unit_class:         
-  personality:        
-  size:               
-  height:             
-  squad_size:         
-  spaces_per_figure:  
-  collector_number:   
-  bio:                
+  faction:            "Jandar"
+  set:                "Heroes of Bleakwoode"
+  life:               5
+  move:               6
+  range:              1
+  attack:             2
+  defense:            2
+  points:             80
+  species:            "Kyrie"
+  unit_type:          "Unique Hero"
+  unit_class:         "Warrior"
+  personality:        "Merciful"
+  size:               "Medium"
+  height:             5
+  squad_size:         1
+  spaces_per_figure:  1
+  collector_number:   "21/25"
+  bio:                "Found near death by Jandar, Kelda was nursed back to health by the Valkyrie and his followers. Upon her recovery, Kelda gratefully pledged her support to Jandar and his army in their battle for Valhalla. She has become one of Jandar's most fearless, loyal and useful warriors. Drinking from a Wellspring gives the merciful Kelda the power of healing, which she uses to cure the battle wounds of nearby allies."
   powers:
     -
-      name:           
-      description:    
+      name:           "Healing Touch"
+      description:    "After moving and before attacking, choose a wounded hero figure adjacent to Kelda. Then roll the 20-sided die to add or remove wound markers from the chosen figure's card: If you roll 1, add 2 markers. If you roll 2-5, remove one marker. If you roll 6-17, remove up to 2 markers. If you roll 18-20, remove all markers."
     -
-      name:           
-      description:    
+      name:           "Flying"
+      description:    "When counting spaces for Kelda's movement, ignore elevations. Kelda may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Kelda starts to fly, if she is engaged she will take any leaving engagement attacks."
   resources:
     -
       name:           "Hasbro"
-      url:            
+      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=7&set_id=3&set_type=2"
     -
-      name:           "Heroscapers: The Book of "
-      url:            
+      name:           "Heroscapers: The Book of Kelda the Kyrie Warrior"
+      url:            "http://www.heroscapers.com/community/showthread.php?t=8114"
 -
   name:               "Marcus Decimus Gallus"
   faction:            
