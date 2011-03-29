@@ -4,10 +4,10 @@ require 'colorize'
 
 VALID_FACTIONS      = ['Jandar']
 VALID_SETS          = ['Rise of the Valkyrie']
-VALID_SPECIES       = ['Kyrie']
-VALID_PERSONALITIES = ['Merciful']
-VALID_CLASSES       = ['Warrior']
-VALID_ORIGINS       = ['Valhalla']
+VALID_SPECIES       = ['Kyrie', 'Human']
+VALID_PERSONALITIES = ['Merciful', 'Valiant']
+VALID_CLASSES       = ['Warrior', 'Soldier']
+VALID_ORIGINS       = ['Valhalla', 'Earth']
 
 
 def unit_validation_errors(unit)
@@ -69,12 +69,11 @@ task :default do
       print ".".colorize(:red)
       invalid_units << unit
     end
-    puts
-    invalid_units.each do |invalid_unit|
-      puts unit_validation_errors(invalid_unit).join("\n")
-    end
   end
-
+  puts
+    invalid_units.each do |invalid_unit|
+    puts unit_validation_errors(invalid_unit).join("\n")
+  end
   puts "=-=-=-=-=-=-=-=-=-=-=-=".colorize(:light_blue)
   puts "Total Units:\t#{units.count}".colorize(:light_blue)
 end
