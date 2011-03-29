@@ -65,44 +65,46 @@
           description:    "Opponents' figures must be adjacent to Sgt. Drake Alexander to attack him with a normal attack."
         - name:           "Grapple Gun 25"
           description:    "Instead of Sgt. Drake Alexander's normal move, he may move only one space. This space may be up to 25 levels higher. When using the Grapple Gun, all engagement rules still apply."
+-
+  name:               "Airborne Elite"
+  faction:            "Jandar"
+  set:                "Rise of the Valkyrie"
+  species:            "Human"
+  origin:             "Earth"
+  hero:               "No"
+  squad_size:         4
+  rarity:             "Unique"
+  personality:        "Disciplined"
+  class:              "Soldiers"
+  size:               "Medium"
+  height:             5
+  spaces_per_figure:  1
+  collector_number:   "26,27,29,29/30"
+  biography:          "Battle-trained on the planet Earth, the Airborne Elite squad has plagued the enemy with its deadly sneak attacks. Lifted high by Valkyries and dropped behind enemy lines, they parachute down for a surprise visit, then quickly fire a barrage of grenades to unleash total havoc in the enemy's own territory. Off the battlefield the Elites are a fun-loving bunch, known for their practical jokes and raucous card games. When called into action, they are unmatched in fast action, focus and fearlessness."
+  stats:
+    basic:
+      move:           4
+      range:          8
+      attack:         3
+      defense:        2
+    advanced:
+      life:           1
+      move:           4
+      range:          8
+      attack:         3
+      defense:        2
+      points:         110
+      powers:
+        - name:           "Grenade Special"
+          range:          5
+          lob:            12
+          attack:         2
+          description:    "Use this power once per game. Start the game with a grenade marker on this card. Remove the grenade marker to throw grenades. One at a time do the following with each Airborne Elite: Choose a figure to attack. No clear line of sight is needed. Any figures adjacent to the chosen figure are also affected by the Grenade Special Attack. Roll 2 attack dice once for all affected figures. Each figure rolls defense dice separately."
+        - name:           "The Drop"
+          description:    "Airborne Elite do not start the game on the battlefield. At the start of each round, before you place Order Markers, roll the 20-sided die. If you roll a 13 or higher you may place all 4 Airborne Elite figures on any empty spaces. You cannot place them adjacent to each other or other figures, or on glyphs."
+
 ## Point of activity ###
-#-
-#  name:               "Airborne Elite"
-#  faction:            "Jandar"
-#  set:                "Rise of the Valkyrie"
-#  life:               1
-#  move:               4
-#  range:              8
-#  attack:             3
-#  defense:            2
-#  points:             110
-#  species:            "Human"
-#  unit_type:          "Unique Squad"
-#  unit_class:         "Soldiers"
-#  personality:        "Disciplined"
-#  size:               "Medium"
-#  height:             5
-#  squad_size:         4
-#  spaces_per_figure:  1
-#  collector_number:   "26,27,29,29/30"
-#  bio:                "Battle-trained on the planet Earth, the Airborne Elite squad has plagued the enemy with its deadly sneak attacks. Lifted high by Valkyries and dropped behind enemy lines, they parachute down for a surprise visit, then quickly fire a barrage of grenades to unleash total havoc in the enemy's own territory. Off the battlefield the Elites are a fun-loving bunch, known for their practical jokes and raucous card games. When called into action, they are unmatched in fast action, focus and fearlessness."
-#  powers:
-#    -
-#      name:           "Grenade Special"
-#      range:          5
-#      lob:            12
-#      attack:         2
-#      description:    "Use this power once per game. Start the game with a grenade marker on this card. Remove the grenade marker to throw grenades. One at a time do the following with each Airborne Elite: Choose a figure to attack. No clear line of sight is needed. Any figures adjacent to the chosen figure are also affected by the Grenade Special Attack. Roll 2 attack dice once for all affected figures. Each figure rolls defense dice separately."
-#    -
-#      name:           "The Drop"
-#      description:    "Airborne Elite do not start the game on the battlefield. At the start of each round, before you place Order Markers, roll the 20-sided die. If you roll a 13 or higher you may place all 4 Airborne Elite figures on any empty spaces. You cannot place them adjacent to each other or other figures, or on glyphs."
-#  resources:
-#    -
-#      name:           "Hasbro"
-#      url:            "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=51&set_id=1&set_type=1"
-#    -
-#      name:           "Heroscapers: The Book of Airborne Elite"
-#      description:    "http://www.heroscapers.com/community/showthread.php?t=8683"
+
 #-
 #  name:               "Finn the Viking Champion"
 #  faction:            "Jandar"

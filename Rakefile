@@ -5,8 +5,8 @@ require 'colorize'
 VALID_FACTIONS      = ['Jandar']
 VALID_SETS          = ['Rise of the Valkyrie']
 VALID_SPECIES       = ['Kyrie', 'Human']
-VALID_PERSONALITIES = ['Merciful', 'Valiant']
-VALID_CLASSES       = ['Warrior', 'Soldier']
+VALID_PERSONALITIES = ['Merciful', 'Valiant', 'Disciplined']
+VALID_CLASSES       = ['Warrior', 'Soldier', 'Soldiers']
 VALID_ORIGINS       = ['Valhalla', 'Earth']
 
 
