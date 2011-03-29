@@ -32,48 +32,40 @@
           description:    "All figures you control within 4 clear sight spaces of Raelin add 2 to their defense dice. Raelin's Defensive Aura does not affect Raelin."
         - name:           "Flying"
           description:    "When counting spaces for Raelin's movement, ignore elevations. Raelin may fly over water without stopping, pass over figures without becoming engaged, and fly over obstacles such as ruins. When Raelin starts to fly, if she is engaged she will take any leaving engagement attacks."
-
-
-
-
-
-
+-
+  name:               "Sgt. Drake Alexander"
+  faction:            "Jandar"
+  set:                "Rise of the Valkyrie"
+  species:            "Human"
+  origin:             "Earth"
+  hero:               "Yes"
+  rarity:             "Unique"
+  personality:        "Valiant"
+  class:              "Soldier"
+  size:               "Medium"
+  height:             5
+  spaces_per_figure:  1
+  collector_number:   "25/30"
+  biography:          "Though he is incredibly agile and strong in hand-to-hand combat, Sergeant Alexander was injured and weaponless after being whisked away to Valhalla by Jandar. Healed by the Valkyrie Kelda, he was then given two powerful weapons by Jandar: The Katana of Thorian, and Bleakwood's Grapple Gun. He learned to use them quickly, for Jandar's forces were already under attack. The Katana, an enchanted sword that channels the powers of the great warrior Thorian, obscures Alexander's image from afar, making him almost impossible to strike. With his magical sword, his laser-guided Grapple Gun and his steely will to conquer evil Sgt. Alexander has become one of Jandar's best soldiers."
+  stats:
+    basic:
+      move:           6
+      range:          1
+      attack:         6
+      defense:        7
+    advanced:
+      life:           5
+      move:           5
+      range:          1
+      attack:         6
+      defense:        3
+      points:         110
+      powers:
+        - name:           "Thorian Speed"
+          description:    "Opponents' figures must be adjacent to Sgt. Drake Alexander to attack him with a normal attack."
+        - name:           "Grapple Gun 25"
+          description:    "Instead of Sgt. Drake Alexander's normal move, he may move only one space. This space may be up to 25 levels higher. When using the Grapple Gun, all engagement rules still apply."
 ## Point of activity ###
-#
-#-
-#  name:               "Sgt. Drake Alexander"
-#  faction:            "Jandar"
-#  set:                "Rise of the Valkyrie"
-#  life:               5
-#  move:               5
-#  range:              1
-#  attack:             6
-#  defense:            3
-#  points:             110
-#  species:            "Human"
-#  unit_type:          "Unique Hero"
-#  unit_class:         "Soldier"
-#  personality:        "Valiant"
-#  size:               "Medium"
-#  height:             5
-#  squad_size:         1
-#  spaces_per_figure:  1
-#  collector_number:   "25/30"
-#  bio:                "Though he is incredibly agile and strong in hand-to-hand combat, Sergeant Alexander was injured and weaponless after being whisked away to Valhalla by Jandar. Healed by the Valkyrie Kelda, he was then given two powerful weapons by Jandar: The Katana of Thorian, and Bleakwood's Grapple Gun. He learned to use them quickly, for Jandar's forces were already under attack. The Katana, an enchanted sword that channels the powers of the great warrior Thorian, obscures Alexander's image from afar, making him almost impossible to strike. With his magical sword, his laser-guided Grapple Gun and his steely will to conquer evil Sgt. Alexander has become one of Jandar's best soldiers."
-#  powers:
-#    -
-#      name:           "Thorian Speed"
-#      description:    "Opponents' figures must be adjacent to Sgt. Drake Alexander to attack him with a normal attack."
-#    -
-#      name:           "Grapple Gun 25"
-#      description:    "Instead of Sgt. Drake Alexander's normal move, he may move only one space. This space may be up to 25 levels higher. When using the Grapple Gun, all engagement rules still apply."
-#  resources:
-#    -
-#      name:           "Hasbro"
-#      url:    "http://www.hasbro.com/games/kid-games/heroscape/default.cfm?page=Inside/CharacterDetail&char_id=48&set_id=1&set_type=1"
-#    -
-#      name:           "Heroscapers: The Book of Sgt. Drake Alexander"
-#      url:    "http://www.heroscapers.com/community/showthread.php?t=8418"
 #-
 #  name:               "Airborne Elite"
 #  faction:            "Jandar"
