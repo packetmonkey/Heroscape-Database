@@ -7,7 +7,7 @@ VALID_SETS          = ['Rise of the Valkyrie']
 VALID_SPECIES       = ['Kyrie']
 VALID_PERSONALITIES = ['Merciful']
 VALID_CLASSES       = ['Warrior']
-VALID_PLANETS       = ['Valhalla']
+VALID_ORIGINS       = ['Valhalla']
 
 
 def unit_validation_errors(unit)
@@ -17,7 +17,7 @@ def unit_validation_errors(unit)
   errors << unit['name'].colorize(:yellow) + ' must have a valid faction.'.colorize(:red)                               unless VALID_FACTIONS.include?              unit['faction']
   errors << unit['name'].colorize(:yellow) + ' must have a valid set.'.colorize(:red)                                   unless VALID_SETS.include?                  unit['set']
   errors << unit['name'].colorize(:yellow) + ' must have a valid species'.colorize(:red)                                unless VALID_SPECIES.include?               unit['species']
-  errors << unit['name'].colorize(:yellow) + ' must have a valid planet'.colorize(:red)                                 unless VALID_PLANETS.include?               unit['planet']
+  errors << unit['name'].colorize(:yellow) + ' must have a valid origin'.colorize(:red)                                 unless VALID_ORIGINS.include?               unit['origin']
   errors << unit['name'].colorize(:yellow) + ' must have a hero value of "Yes" or "No".'.colorize(:red)                 unless %w(Yes No).include?                  unit['hero']
   errors << unit['name'].colorize(:yellow) + ' must have a rarity of "Unique", "Uncommon" or "Common".'.colorize(:red)  unless %w(Unique Uncommon Common).include?  unit['rarity']
   errors << unit['name'].colorize(:yellow) + ' must have a valid personality.'.colorize(:red)                           unless VALID_PERSONALITIES.include?         unit['personality']
